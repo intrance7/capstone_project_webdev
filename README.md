@@ -100,8 +100,7 @@ Floating bottom-right button:
 ## 📷 Preview Screenshot
 
 ```
-![Website Screenshot](images/screenshot1.png)
-![Website Screenshot](images/screenshot2.png)
+![screenshot](images/screenshot1.png)
 ```
 
 ---
