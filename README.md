@@ -99,8 +99,6 @@ Floating bottom-right button:
 
 ## 📷 Preview Screenshot
 
-_Add a screenshot here later_
-
 ```
 ![Website Screenshot](images/screenshot1.png)
 ![Website Screenshot](images/screenshot2.png)
@@ -110,7 +108,6 @@ _Add a screenshot here later_
 
 ## 🌐 Live Demo
 
-_Add your deployment link here_
 
 ```
 https://gurgaon-realestate-tanishq.netlify.app/
