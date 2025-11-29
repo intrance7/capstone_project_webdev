@@ -99,8 +99,9 @@ Floating bottom-right button:
 
 ## 📷 Preview Screenshot
 
-images/screenshot1.png
-images/screenshot2.png
+![Alt Text](images/screenshot1.png)
+![Alt Text](images/screenshot2.png)
+
 ```
 ![screenshot](images/screenshot1.png)
 ![screenshot](images/screenshot2.png)
