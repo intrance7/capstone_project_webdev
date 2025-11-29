@@ -102,7 +102,7 @@ Floating bottom-right button:
 _Add a screenshot here later_
 
 ```
-![Website Screenshot](images/screenshot.png)
+![Website Screenshot](images/screenshot1.png)
 ```
 
 ---
@@ -112,7 +112,7 @@ _Add a screenshot here later_
 _Add your deployment link here_
 
 ```
-https://your-website.netlify.app/
+https://gurgaon-realestate-tanishq.netlify.app/
 ```
 
 ---
